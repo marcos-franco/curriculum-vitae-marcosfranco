@@ -1,24 +1,32 @@
-<h1 align="center">Projeto: Currículo Vitae</h1>
+#   Projeto: Currículo Vitae
+
+![preview](./preview.png)
 
 ## Descrição:
+Projeto, pondo em prática meus conhecimentos em HTML e CSS, e desenvolvendo meu Currículo Vitae.
 
-Projeto, pondo em prática meus conhecimentos em HTML e CSS, e desenvolvendo meu Currículo Vitae!
 
-## Linguagens Utilizadas:
+[🔗 Clique aqui para acessar](https://marcos-franco.github.io/curriculum-vitae-marcosfranco/)
 
-- [x] HTML
-- [x] CSS
+
+## 🛠 Tecnologias:
+- HTML
+- CSS
+- Git
+- Github
 
 ## Status do Projeto:
-
 100% Concluído
 
-## Links Úteis:
-
-- Visite o Site do meu Currículo Vitae, clicando [aqui.](https://marcos-franco.github.io/curriculum-vitae-marcosfranco/)
-- Visite o Repositório do meu Currículo Vitae no Github, clicando [aqui.](https://github.com/marcos-franco/curriculum-vitae-marcosfranco)
-
-
 ## Autor:
-
 Projeto desenvolvido por [Marcos Franco](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
+
+## 💛 Contatos:
+
+Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
+
+Repositório Github: https://github.com/marcos-franco
+
+WhatSapp: https://contate.me/marcos-franco
+
+E-mail: masf68@hotmail.com

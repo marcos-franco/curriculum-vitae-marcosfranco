@@ -1,6 +1,6 @@
 #   Projeto: Currículo Vitae
 
-![preview](./preview.png)
+![preview](./preview1.png)
 
 ## Descrição:
 Projeto, pondo em prática meus conhecimentos em HTML e CSS, e desenvolvendo meu Currículo Vitae.

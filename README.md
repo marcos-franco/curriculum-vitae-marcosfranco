@@ -6,7 +6,7 @@
 Projeto, pondo em prática meus conhecimentos em HTML e CSS, e desenvolvendo meu Currículo Vitae.
 
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/curriculum-vitae-marcosfranco/)
+[🔗 Clique aqui para acessar o site Currículo Vitae](https://marcos-franco.github.io/curriculum-vitae-marcosfranco/)
 
 
 ## 🛠 Tecnologias:
